@@ -1324,7 +1324,7 @@ const Contact = () => {
               </div>
               <div>
                 <div className="text-[10px] font-bold uppercase tracking-widest text-zinc-500 mb-1">E-mail</div>
-                <div className="text-lg font-medium">contato@personalizacaoweb.com</div>
+                <div className="text-lg font-medium">tiago@personalizacaoweb.com</div>
               </div>
             </div>
             <div className="flex items-center gap-6 group cursor-pointer">
@@ -1424,7 +1424,7 @@ const Footer = () => {
           <a href="#" className="hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors">Cookies</a>
         </div>
         <p className="text-sm text-zinc-400 dark:text-zinc-500">
-          © {new Date().getFullYear()} Personalização Web. Todos os direitos reservados.
+          © {new Date().getFullYear()} Personalização Web. Todos os direitos reservados. || Desenvolvido por Tiago dos Santos
         </p>
       </div>
     </footer>
