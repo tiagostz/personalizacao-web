@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Personalização Web
 
-# Run and deploy your AI Studio app
+Projeto de landing page desenvolvido com foco em apresentar serviços de criação de sites profissionais para diferentes nichos, como personal trainers, nutricionistas, médicos, dentistas e outros profissionais que desejam fortalecer sua presença digital.
 
-This contains everything you need to run your app locally.
+## 🚀 Demonstração
 
-View your app in AI Studio: https://ai.studio/apps/471d927f-1fd8-42b4-b8f3-22adc6052dfe
+Acesse o projeto online:
 
-## Run Locally
+🔗 https://personalizacao-web.netlify.app/
 
-**Prerequisites:**  Node.js
+## 📌 Sobre o projeto
+
+O objetivo deste projeto é demonstrar um modelo de site moderno, responsivo e minimalista voltado para a apresentação de serviços de desenvolvimento web e criação de páginas profissionais.
+
+A proposta é oferecer uma estrutura visual clara, destacando os benefícios de ter um site próprio e incentivando profissionais a investirem em sua presença digital.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🎯 Funcionalidades
+
+* Layout moderno e responsivo
+* Estrutura de landing page
+* Seções informativas sobre serviços
+* Navegação simples e intuitiva
+* Estrutura preparada para apresentação de portfólio ou serviços
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido para funcionar em diferentes dispositivos:
+
+* Desktop
+* Tablet
+* Mobile
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Tiago dos Santos**
+
+* GitHub: https://github.com/tiagostz
+* LinkedIn: (adicione aqui se quiser)
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins de estudo e portfólio.
