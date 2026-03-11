@@ -36,7 +36,7 @@ O projeto foi desenvolvido para funcionar em diferentes dispositivos:
 Desenvolvido por **Tiago dos Santos**
 
 * GitHub: https://github.com/tiagostz
-* LinkedIn: (adicione aqui se quiser)
+* LinkedIn: https://www.linkedin.com/in/tiagosantos016/
 
 ## 📄 Licença
 
